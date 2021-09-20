@@ -1,0 +1,87 @@
+
+header {
+  color: aliceblue;
+  background-image: url("https://www.healthwire.co/wp-content/uploads/2020/07/weather-696x394.png");
+  text-align: left;
+  padding-left: 5px;
+  padding-top: 40px;
+}
+body {
+  background-image: url("../images/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 40%;
+}
+.city {
+  width: 310px;
+  margin-top: 4%;
+  color: rgb(240, 109, 100);
+  background-color: rgba(144, 120, 196, 0.74);
+  border: transparent;
+}
+.cardbody{
+  background-color: rgb(248, 99, 223);
+}
+#searchBox {
+  width: 200px;
+}
+.searchBtn {
+  border-left: 1px solid black;
+  border-right:1px solid black ;
+  font-weight: bold;
+  padding: 5px 50px;
+  margin: 4px 8px;
+  background-color: #06AED5;
+  color: white;
+}
+.clearBtn {
+  border-left: 1px solid black;
+  border-right:1px solid black ;
+  font-weight: bold;
+  padding: 5px 50px;
+  margin: 4px 10px;
+  background-color: #06AED5;
+  color: white;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+.card {
+  width:50%;
+  background-color: #79b4e4;
+  border-left: 1px solid  rgb(240, 54, 30);
+  border-right:1px solid rgb(240, 54, 30) ;
+  font-weight: bold;
+  
+  
+}
+.fiveDay{    
+  background-color: royalblue;
+  margin: 15px;
+}
+h3 {
+  float:left;
+}
+.city {
+  width: 200px;
+}
+
+h2 {
+  margin-left: 0;
+}
+p {
+  margin-left: 0;
+}
+#temp {
+  margin-left: 0;
+}
+#date {
+  margin-left: 0;
+}
+
+
+
+
+
