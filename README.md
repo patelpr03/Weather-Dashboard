@@ -11,9 +11,9 @@ Local Storage
 Third-Party API - OpenWeather API
 
 # Deployed Link:
-
+    https://patelpr03.github.io/Weather-Dashboard/
 # Github:
-
+    https://github.com/patelpr03/Weather-Dashboard
 # Screenshot : 
-![Weather Dashboard](./assets/image/austinweather.jpg)
-ls
+![Weather Dashboard](./assets/images/austinweather.jpg)
+

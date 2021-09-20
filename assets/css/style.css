@@ -1,10 +1,20 @@
 
-header {
+.header {
   color: aliceblue;
   background-image: url("https://www.healthwire.co/wp-content/uploads/2020/07/weather-696x394.png");
   text-align: left;
   padding-left: 5px;
   padding-top: 40px;
+}
+.navbar {
+  font-size: 50px;
+  background-image: url("https://www.healthwire.co/wp-content/uploads/2020/07/weather-696x394.png") ;
+  color: #ffffff;
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+  
+  padding-top: 60px;
+  
 }
 body {
   background-image: url("../images/background.png");
@@ -24,6 +34,7 @@ body {
 }
 #searchBox {
   width: 200px;
+  
 }
 .searchBtn {
   border-left: 1px solid black;
