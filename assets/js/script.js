@@ -70,17 +70,19 @@ $.ajax({
     $.ajax({
         url: `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=f3e794b6f19299364c3a368c93f4e895`, 
         method: "GET"
+        
    
     }).then(function (response) {
-        mainCard.append($("<p>").html("UV Index: <span>" + response.value + "</span>"));
+        console.log(response)
+        mainCard.append($("<p>").html("UV Index: <span>" + response.current.uvi + "</span>"));
         // 
-        if (response.value <= 2) {
+        if (response.current.uvi <= 2) {
             $("span").attr("class", "btn btn-outline-success");
         };
-        if (response.value > 2 && response.value <= 5) {
+        if (response.current.uvi > 2 && response.current.uvi <= 5) {
             $("span").attr("class", "btn btn-outline-warning");
         };
-        if (response.value > 5) {
+        if (response.current.uvi > 5) {
             $("span").attr("class", "btn btn-outline-danger");
         };
     })
@@ -157,3 +159,5 @@ return false;
 });
 
 // getData()
+
+
