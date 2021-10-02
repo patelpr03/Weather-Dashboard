@@ -13,10 +13,12 @@ CSS
 JavaScript
 Bootstrap
 Local Storage
-Third-Party API - OpenWeather API
+Third-Party API :  OpenWeather API
 
 # Deployed Link:
-    https://patelpr03.github.io/Weather-Dashboard/
+
+https://patelpr03.github.io/Weather-Dashboard/
+
 
 # Github:
     https://github.com/patelpr03/Weather-Dashboard
