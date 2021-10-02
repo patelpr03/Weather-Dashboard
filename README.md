@@ -22,6 +22,7 @@ https://patelpr03.github.io/Weather-Dashboard/
 
 # Github:
     https://github.com/patelpr03/Weather-Dashboard
+    
 
 # Screenshot : 
 ![Weather Dashboard](./assets/images/San-Francisco-weather.jpg)
