@@ -17,7 +17,7 @@ Third-Party API :  OpenWeather API
 
 # Deployed Link:
 
-https://patelpr03.github.io/Weather-Dashboard/
+[Live Site](https://patelpr03.github.io/Weather-Dashboard/)
 
 
 # Github:
