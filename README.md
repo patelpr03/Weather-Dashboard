@@ -21,7 +21,7 @@ Third-Party API :  OpenWeather API
 
 
 # Github:
-    https://github.com/patelpr03/Weather-Dashboard
+https://github.com/patelpr03/Weather-Dashboard
     
 
 # Screenshot : 
